@@ -377,11 +377,6 @@ Lista todas as mensagens (ou filtradas por usuário).
 ## 📄 Licença
 
 MIT License
-
-## 👤 Autor
-
-Desenvolvido como parte de um desafio técnico.
-
 ---
 
 **Nota**: Este projeto foi desenvolvido seguindo as especificações do desafio técnico. Todas as funcionalidades solicitadas foram implementadas e o código está pronto para avaliação.
