@@ -6,6 +6,10 @@ Protótipo fullstack (Backend Django + Frontend React) de um sistema de chat sim
 
 Este projeto implementa um sistema de chat onde usuários podem enviar mensagens e receber respostas automáticas mockadas. O sistema suporta dois usuários diferentes (Usuário A e Usuário B), cada um com seu próprio histórico de mensagens.
 
+## 🎥 Vídeo Explicativo
+
+**Link do vídeo:** [CLIQUE AQUI](https://youtu.be/qnICQ1gjSLQ)
+
 ### Funcionalidades
 
 - **Login Mockado**: Seleção entre Usuário A e Usuário B sem autenticação real
@@ -380,3 +384,7 @@ MIT License
 ---
 
 **Nota**: Este projeto foi desenvolvido seguindo as especificações do desafio técnico. Todas as funcionalidades solicitadas foram implementadas e o código está pronto para avaliação.
+
+## 🎥 Vídeo Explicativo
+
+**Link do vídeo:** [CLIQUE AQUI](https://youtu.be/qnICQ1gjSLQ)
