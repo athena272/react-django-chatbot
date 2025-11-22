@@ -1,0 +1,54 @@
+.login-mockado {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.login-label {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.login-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.user-button {
+  padding: 0.5rem 1rem;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  background-color: transparent;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 0.9rem;
+}
+
+.user-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.user-button.active {
+  background-color: #3498db;
+  border-color: #3498db;
+  font-weight: 600;
+}
+
+.active-user-badge {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 0.25rem 0.75rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+}
+
+@media (max-width: 768px) {
+  .login-mockado {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+}
+
