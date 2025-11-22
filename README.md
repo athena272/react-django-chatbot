@@ -75,6 +75,25 @@ react-django-chatbot/
 - Node.js 16+ e npm (ou yarn) instalados
 - Git (para clonar o repositório)
 
+### Frontend (React)
+
+1. **Abra um novo terminal e navegue até a pasta do frontend:**
+   ```bash
+   cd frontend
+   ```
+
+2. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+
+3. **Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
+
+   O frontend estará rodando em: **http://localhost:5173**
+
 ### Backend (Django)
 
 1. **Navegue até a pasta do backend:**
@@ -158,26 +177,7 @@ react-django-chatbot/
    - Ver detalhes completos de cada mensagem (id, usuário, conteúdo, resposta, data)
    
    **Nota**: O superusuário do Django Admin é diferente do login mockado do frontend (Usuário A/B). Ele serve apenas para administrar os dados através da interface web.
-
-### Frontend (React)
-
-1. **Abra um novo terminal e navegue até a pasta do frontend:**
-   ```bash
-   cd frontend
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   npm install
-   ```
-
-3. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-
-   O frontend estará rodando em: **http://localhost:5173**
-
+   
 ### Acessando a Aplicação
 
 1. Certifique-se de que o **backend** está rodando (porta 8000)
